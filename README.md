@@ -1,4 +1,4 @@
-# ProjectAI
+# Phân loại cảm xúc bình luận
 ### 1. Clone code về máy
 ### 2. Tạo thư mục mới ProjectAI trên Google Drive 
 ### 3. Upload các thư mục Data, Code, model vào thư mục vừa tạo
